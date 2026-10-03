@@ -10,7 +10,7 @@
 
 ## Visual Preview
 
-![Dashboard Overview](dashboard-preview.png)
+![Dashboard Overview](<Dashboard Overview.png>)
 *Figure 1: Executive view evaluating digital infrastructure maturity, review volume correlation, and addressable market segments.*
 
 ---
